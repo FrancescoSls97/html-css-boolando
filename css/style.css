@@ -5,3 +5,38 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/*Debug*/
+
+.debug{
+    border: dashed 1px black;
+
+    #sitehead{
+        background: orange;
+    }
+
+}
+
+/* Common Rules */
+
+.container{
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    color: white;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+img{
+ height: 30px;
+}
