@@ -36,6 +36,12 @@ img {
     position: absolute;
     bottom: 1rem;
   }
+
+  .heart {
+    position: absolute;
+    top: 1rem;
+    right: 1.5rem;
+  }
 }
 
 /* elements style */
